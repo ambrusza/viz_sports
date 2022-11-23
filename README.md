@@ -4,4 +4,4 @@ visualization of data extracted from sports
 mainly with python and matplotlib
 
 
-[ide](realAndxGCalc_tab/README.md)
+[ide](viz_sports/realAndxGCalc_tab/)
