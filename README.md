@@ -1,4 +1,4 @@
-##viz_sports_python
+## viz_sports_python
 
 Visualization of data extracted from sports - mainly with python and matplotlib
 
