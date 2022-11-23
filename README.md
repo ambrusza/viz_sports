@@ -1,10 +1,9 @@
-# viz_sports_python
-visualization of data extracted from sports
+##viz_sports_python
 
-mainly with python and matplotlib
+Visualization of data extracted from sports - mainly with python and matplotlib
 
 
-1. theme - Real table vs. xG table - comparative
+1. theme - Real table vs. xG table - **comparative**
 
 [go to code](realAndxGCalc_tab/)
 
