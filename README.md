@@ -1,5 +1,12 @@
 ## viz_sports_python
 
+<div id="badges">
+  <a href="https://twitter.com/ambrusz_a">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
 Visualization of data extracted from sports - mainly with python and matplotlib
 
 
