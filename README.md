@@ -15,6 +15,12 @@ Visualization of data extracted from sports - mainly with python and matplotlib
 
 ![Képernyőfotó 2022-11-23 - 19 33 21](https://user-images.githubusercontent.com/66861232/203622468-52a76f98-8a0d-4411-8ad4-5d46f69bcdb0.png)
 
+
 2. theme - xG Match flow          ([go to code](matchXg_flow/))
 
 ![Képernyőfotó 2022-11-24 - 15 16 36](https://user-images.githubusercontent.com/66861232/203805892-dfddb5c3-3422-4e8a-a69e-edfedb3f0ae9.png)
+
+
+3. theme - position of teams per round - **comparative**      ([go to code](teamsPosition/))
+
+![Képernyőfotó 2022-11-29 - 10 15 18](https://user-images.githubusercontent.com/66861232/204488679-d7c638aa-5ca4-4f74-9857-ee9232bc57c5.png)
