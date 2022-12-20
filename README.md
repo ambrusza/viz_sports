@@ -9,7 +9,7 @@
 
 Visualization of data extracted from sports - mainly with python and matplotlib
 
-1. theme - Random walk with the positions - **comparative**.        ([go to code] (random walk with rankings/))
+1. theme - Random walk with the positions - **comparative**.        ([go to code](random walk with rankings/))
 
 ![randomWalkNb2_19forduló](https://user-images.githubusercontent.com/66861232/208676527-e23fed80-9b67-408b-829f-14eb29a8b108.png)
 
