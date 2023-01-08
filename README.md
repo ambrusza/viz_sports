@@ -13,7 +13,7 @@ Visualization of data extracted from sports - mainly with python and matplotlib
 
 the points scored by the teams in relation to the total points that can be scored in the 5-match grouping
 
-plus: mood change according to loss aversion/prospect theory measured in util.            **comparative**
+plus: mood change according to loss aversion/prospect theory measured in util  -            **comparative**          ([go to code](point_VS_utils/))
 
 
 ![2020_21Season_percentageTeam](https://user-images.githubusercontent.com/66861232/211208975-f1b9a56e-c90c-4593-a2f7-3190456de510.png)
