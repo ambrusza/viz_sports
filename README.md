@@ -1,5 +1,6 @@
 ## viz_sports_python
 
+![Visitor Count](https://profile-counter.glitch.me/{ambrusza}/count.svg)
 <div id="badges">
   <a href="https://twitter.com/ambrusz_a">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
