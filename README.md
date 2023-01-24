@@ -13,7 +13,7 @@ Visualization of data extracted from sports - mainly with python and matplotlib
 
 1. theme - ([go to code](PowerSpace_xG_Real_NB1))
 
-Power Space - based on real performance and calc xG perfomance
+**Power Space** - based on real performance and calc xG perfomance
 
 The team with the most points is 100% - the value of the others is relative to them. We were looking for a gap between the total value of the teams and 200% (real 100% + xG 100%)
 
